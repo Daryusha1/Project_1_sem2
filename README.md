@@ -10,4 +10,4 @@
 
 ***Код для запуска проекта:***
 
-streamlit run dashboard/dashboard_app.py
+streamlit run dashboard/dashboard.py
