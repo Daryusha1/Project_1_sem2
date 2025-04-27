@@ -1,9 +1,7 @@
 pandas
-numpy
 matplotlib
-seaborn
 plotly
 streamlit
 wordcloud
 requests
-beautifulsoup4
+python-dotenv
