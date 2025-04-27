@@ -177,9 +177,9 @@ with tab7:
     negative_count = (df['sentiment'] == 'NEGATIVE').sum()
 
     col1, col2, col3 = st.columns(3)
-    col1.success(f"✅ Позитивных: {positive_count}")
-    col2.info(f"➖ Нейтральных: {neutral_count}")
-    col3.error(f"❌ Негативных: {negative_count}")
+    col1.success(f"✅ Позитивных комментариев: {positive_count}")
+    col2.info(f"➖ Нейтральных комментариев: {neutral_count}")
+    col3.error(f"❌ Негативных комментариев: {negative_count}")
 
     st.markdown("---")
 
