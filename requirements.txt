@@ -1,11 +1,9 @@
-streamlit
 pandas
 numpy
 matplotlib
 seaborn
 plotly
+streamlit
 wordcloud
 requests
 beautifulsoup4
-textblob
-scikit-learn
