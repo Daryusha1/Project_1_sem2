@@ -31,4 +31,4 @@
 
 streamlit run dashboard/dashboard.py
 
-***Morgenshtern и Юрий Дудь, упоминаемые в проекте, признаны иноагентами в РФ**
+***Morgenshtern, упоминаемый в проекте, признаны иноагентами в РФ**
