@@ -4,4 +4,4 @@ plotly
 streamlit
 wordcloud
 requests
-python-dotenv
+python-dotenv 
