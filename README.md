@@ -30,3 +30,5 @@
 Далее код для запуска проекта:
 
 streamlit run dashboard/dashboard.py
+
+***Morgenshtern признан иноагентом в РФ**
