@@ -31,4 +31,4 @@
 
 streamlit run dashboard/dashboard.py
 
-***Morgenshtern, упоминаемый в проекте, признаны иноагентами в РФ**
+***Morgenshtern, упоминаемый в проекте, признан иноагентом в РФ**
