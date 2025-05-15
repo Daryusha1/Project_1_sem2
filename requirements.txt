@@ -1,7 +1,10 @@
-pandas
-matplotlib
-plotly
-streamlit
-wordcloud
-requests
-python-dotenv 
+pandas==2.2.0
+numpy==1.26.0
+matplotlib==3.8.0
+plotly==5.18.0
+wordcloud==1.9.3
+streamlit==1.32.0
+requests==2.31.0
+python-dotenv==1.0.0
+pymorphy3==2.0.0
+pymorphy3-dicts-ru==2.4.411984
